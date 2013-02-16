@@ -1,0 +1,18 @@
+[submodule "orm"]
+	path = orm
+	url = git://github.com/fuel/orm.git
+[submodule "auth"]
+	path = auth
+	url = git://github.com/fuel/auth.git
+[submodule "oil"]
+	path = oil
+	url = git://github.com/fuel/oil.git
+[submodule "parser"]
+	path = parser
+	url = git://github.com/fuel/parser.git
+[submodule "email"]
+	path = email
+	url = git://github.com/fuel/email.git
+[submodule "log"]
+	path = log
+	url = git://github.com/fuel/log.git
